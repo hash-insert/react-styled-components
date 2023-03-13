@@ -1,7 +1,7 @@
 # react-styled-components
 
 ## Task:
-Create 2 simple React "BUTTON" components that render a button with the following styles:
+Create 2 simple React `Button1` and `Button2` components that render a button with the following styles:
 
 - Background color: `#4CAF50`
 - Text color: `#FFFFFF`
